@@ -2,7 +2,8 @@
 ###### Edited version of [Lenovo controller](https://github.com/ViRb3/LenovoController)
 
 ### New features 
-- Better UI
+- Better UI ![image](https://user-images.githubusercontent.com/22070926/135708521-230cf72c-77e3-4294-b217-d7264d3db578.png)
+
 - Power plan changer
 - System tray GPU + CPU temp monitor
 - WIFI Fix
@@ -10,4 +11,6 @@
 - Timed shutdown
 - DNS Changer
 
-![main_page](https://user-images.githubusercontent.com/22070926/135708328-26e089b4-ac29-4b95-8d86-50b8a194a182.png)
+###### Still light on memory!
+![image](https://user-images.githubusercontent.com/22070926/135708481-1b3472fc-2c2e-4ea3-927c-b5eedbdb3ffe.png)
+
