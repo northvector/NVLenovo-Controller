@@ -1,6 +1,8 @@
 # NVLenovo-Controller
 ###### Edited version of [Lenovo controller](https://github.com/ViRb3/LenovoController)
 
+### Tested on lenovo ideapad gaming 3 
+
 ### New features 
 - Better UI 
 - Power plan changer
