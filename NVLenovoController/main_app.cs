@@ -10,6 +10,7 @@ using System.Threading;
 using System.Windows.Forms;
 using Microsoft.Win32;
 using System.Drawing;
+using System.IO;
 
 namespace NVLenovoController
 {
@@ -64,7 +65,10 @@ namespace NVLenovoController
                 Process.Start(startInfo);
                 Application.Exit();
             }
-
+            if (!File.Exists("log.txt"))
+            {
+                File.CreateText("log.txt");
+            }
             computer.Open();
             computer.CPUEnabled = true;
             computer.GPUEnabled = true;
@@ -708,6 +712,7 @@ namespace NVLenovoController
         {
             this.WindowState = FormWindowState.Minimized;
             ShowInTaskbar = false;
+            Hide();
             notifyIcon1.Visible = true;
         }
         protected override CreateParams CreateParams
@@ -725,6 +730,7 @@ namespace NVLenovoController
         {
             this.WindowState = FormWindowState.Normal;
             ShowInTaskbar = true;
+            Show();
             notifyIcon1.Visible = false;
         }
 
