@@ -2,7 +2,7 @@
 ###### Edited version of [Lenovo controller](https://github.com/ViRb3/LenovoController)
 
 ### Tested on Lenovo Ideapad Gaming 3 (15ARH05) but should work with other models like legion 5
-*You must install Lenovo Energy Driver before opening this app, otherwise app will crash (I'll Fix it soon) and you have to restart your pc!
+You must install Lenovo Energy Driver before opening this app, otherwise app will crash (I'll Fix it soon) and you have to restart your pc!
 
 ### New features 
 - Better UI 
