@@ -13,7 +13,7 @@ You must install Lenovo Energy Driver before opening this app, otherwise app wil
 - Timed shutdown
 - DNS Changer
 
-###### Still light on memory!
+###### Low memory usage 
 ![image](https://user-images.githubusercontent.com/22070926/135708481-1b3472fc-2c2e-4ea3-927c-b5eedbdb3ffe.png)
 
 
