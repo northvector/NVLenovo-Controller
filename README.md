@@ -15,8 +15,8 @@ You must install Lenovo Energy Driver before opening this app, otherwise app wil
 
 ###### Low memory usage 
 ![image](https://user-images.githubusercontent.com/22070926/135708481-1b3472fc-2c2e-4ea3-927c-b5eedbdb3ffe.png)
+![Untitled](https://user-images.githubusercontent.com/22070926/140508048-4bab1646-7b5b-490b-8a65-730d7b9503f9.png)
 
-![Untitled](https://user-images.githubusercontent.com/22070926/140507840-9afa88a9-3483-4dfa-9b57-870e95d506a0.png)
 
 ![image](https://user-images.githubusercontent.com/22070926/135708700-ab384bba-e146-4f14-a792-4cfe588a26e7.png)
 ![image](https://user-images.githubusercontent.com/22070926/135708993-484c34b8-bb57-4495-bff5-58632c57e733.png)
